@@ -1,4 +1,4 @@
-# Picture-This
-Starter files for the MTM6201 - Web Dev II - Picture This assignment
+# THIS IS SO IMAGE
+> so cool!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-Fork this repository to start your assignment, see the requirements in BrightSpace.
+### i m a g e i m a g e i m a g e i m a g e i m a g e
